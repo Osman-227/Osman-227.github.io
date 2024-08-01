@@ -5,29 +5,29 @@ body {
 }
 
 .container {
-  padding: 150px;
+  padding: 75px;
 }
 
 
 .container img{
-  width: 1500px;
-  height: 1080px;
+  width: 1000px;
+  height: 720px;
 }
 .container canvas{
   width: fit-content;
 }
 h1 {
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 .buttons {
-  margin: 150px;
+  margin: 100px;
 }
 
 button {
-  font-size: 140px;
-  padding: 90px 120px;
-  margin: 45px;
+  font-size: 100px;
+  padding: 70px 100px;
+  margin: 30px;
 }
 
 .popup {
@@ -35,7 +35,7 @@ button {
   background-color: #f9f9f9;
   border: 1px solid #ccc;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  padding: 150px;
+  padding: 100px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -49,28 +49,28 @@ body {
   background-color: #f9f4f5; /* Soft pastel color for the background */
 }
 canvas{
-  height: 900;
-  width: 1800;
+  height: 700;
+  width: 1400;
 }
 
 .container {
-  padding: 180px;
+  padding: 120px;
 }
 
 h1 {
-  font-size: 210px;
-  margin-bottom: 180px;
+  font-size: 150px;
+  margin-bottom: 110px;
   color: #e91e63; /* Romantic color for the heading */
 }
 
 .buttons {
-  margin: 150px;
+  margin: 100px;
 }
 
 button {
-  font-size: 150px;
-  padding: 96px 132px;
-  margin: 60px;
+  font-size: 100px;
+  padding: 66px 102px;
+  margin: 45px;
   border: none;
   border-radius: 20px;
   background-color: #ff4081; /* Romantic color for the buttons */
