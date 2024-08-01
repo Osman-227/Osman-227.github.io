@@ -10,24 +10,24 @@ body {
 
 
 .container img{
-  width: 1000px;
-  height: 720px;
+  width: 700px;
+  height: 400px;
 }
 .container canvas{
   width: fit-content;
 }
 h1 {
-  margin-bottom: 100px;
+  margin-bottom: 60px;
 }
 
 .buttons {
-  margin: 100px;
+  margin: 60px;
 }
 
 button {
-  font-size: 100px;
-  padding: 70px 100px;
-  margin: 30px;
+  font-size: 60px;
+  padding: 45px 65px;
+  margin: 20px;
 }
 
 .popup {
@@ -35,7 +35,7 @@ button {
   background-color: #f9f9f9;
   border: 1px solid #ccc;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  padding: 100px;
+  padding: 70px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -49,28 +49,28 @@ body {
   background-color: #f9f4f5; /* Soft pastel color for the background */
 }
 canvas{
-  height: 700;
-  width: 1400;
+  height: 500;
+  width: 900;
 }
 
 .container {
-  padding: 120px;
+  padding: 80px;
 }
 
 h1 {
-  font-size: 150px;
-  margin-bottom: 110px;
+  font-size: 100px;
+  margin-bottom: 70px;
   color: #e91e63; /* Romantic color for the heading */
 }
 
 .buttons {
-  margin: 100px;
+  margin: 70px;
 }
 
 button {
-  font-size: 100px;
-  padding: 66px 102px;
-  margin: 45px;
+  font-size: 70px;
+  padding: 42px 52px;
+  margin: 35px;
   border: none;
   border-radius: 20px;
   background-color: #ff4081; /* Romantic color for the buttons */
@@ -94,7 +94,7 @@ button:hover {
   transform: translate(-50%, -50%);
   z-index: 999;
   font-family: 'Dancing Script', cursive;
-  font-size: 24px;
+  font-size: 50px;
   color: #e91e63; /* Romantic color for the popup text */
 }
 
